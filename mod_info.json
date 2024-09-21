@@ -3,7 +3,7 @@
     "name": "EE Tempest Rework",
     "author": "Joejoemyo",
     "utility": "true",
-    "version": "0.0 testing",
-    "description": "testing for now",
+    "version": "0.1",
+    "description": "Basic tempest system rework",
     "gameVersion": "0.97a-RC11"
 }
