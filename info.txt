@@ -1,0 +1,4 @@
+-Changes the Tempest ship system to build 2 more mobile Terminator drones. 
+-Also gives Terminator drones a modified light phase skimmer similar to the Wolf, but the stock drones usually don't use it
+-In the future I might lower the stock wing to 1 drone so use of the extras severely limits (but doesn't entirely eliminate) the defensive power. Trying to keep the theme of the current drones spending defense for offense
+-This is my first mod I've ever published. Any feedback is appreciated

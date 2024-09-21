@@ -1,0 +1,4 @@
+-Feel free to use the mod in your game.
+-If using the mod in a video, please mention its use either in the video or in some description.
+-Do not claim the content of the mod as your own work unless you make major changes to the implementation or concept.
+-If you publish a mod inspired by this mod, please list it as an inspiration somewhere on your mod page.
