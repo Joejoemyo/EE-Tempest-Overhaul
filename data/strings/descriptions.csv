@@ -1,0 +1,9 @@
+id,type,text1,text2,text3,text4,notes
+drone_terminator,SHIP_SYSTEM,"Deploys two modified Terminator drones carrying a miniaturized phase skimmer and an autonomous piloting AI, in addition to their normal loadout.
+
+The AI allows them to roam much farther from the mothership than other drone systems - that are either entirely on remote-control, or feature a sub-gamma personality at best.
+
+Even more impressive is the nanoforge that's capable of producing replacement drones in combat without stressing the normal hangar crew, ensuring that the host ship is never without escort for long.
+
+This design is also unique in that it was created through the cooperation of two rival corporations. Fabrique Orbitale provided the chassis and forge designs, while Tri-Tachyon experts were responsible for the controlling AIs and phase skimmer.",Drone (attack),Deploys two Terminator drones that may leave the vicinity of the ship. The drones will be slowly rebuilt if destroyed,,
+skimmer_drone,SHIP_SYSTEM,"Teleports the drone forward a short distance in the direction it's traveling. The system builds up a charge over four seconds, up to three charges, which can then be expended in short order.",Movement,Teleports the drone in the direction it's traveling. Stores up to three charges and recharges quickly,,
